@@ -8,7 +8,7 @@
 		<version>2.2.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.javatpoint.microservices</groupId>
+	<groupId>com.vastika.microservices</groupId>
 	<artifactId>netflix-eureka-naming-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>netflix-eureka-naming-server</name>
